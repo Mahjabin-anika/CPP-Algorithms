@@ -1,46 +1,50 @@
-CPP Algorithms
+# CPP Algorithms
 
-This repository contains my C++ programs, practice problems, and implementations completed for my Algorithm course.
+This repository contains my C++ programs, practice problems, and implementations completed for my **Algorithm course**.
 
-📚 Topics Covered
-🔹 Basic C++
+## 📚 Topics Covered
+
+### 🔹 Basic C++
 
 This folder contains programs related to:
 
-Sum of array elements
-Finding the largest element
-Counting even numbers
-Linear search
-Reversing an array
-Printing the first and last element
-Finding string length
-Counting vowels
-Copying an array
-Checking whether an array is sorted
-🔹 Activity Selection
+* Sum of array elements
+* Finding the largest element
+* Counting even numbers
+* Linear search
+* Reversing an array
+* Printing the first and last element
+* Finding string length
+* Counting vowels
+* Copying an array
+* Checking whether an array is sorted
 
-Programs based on the Activity Selection problem using the Greedy Algorithm.
+### 🔹 Activity Selection
 
-🔹 Fractional Knapsack
+Programs based on the **Activity Selection problem** using the **Greedy Algorithm**.
 
-Programs based on the Fractional Knapsack problem using the Greedy Algorithm.
+### 🔹 Fractional Knapsack
 
-🔹 0/1 Knapsack
+Programs based on the **Fractional Knapsack problem** using the **Greedy Algorithm**.
 
-Programs based on the 0/1 Knapsack problem using Dynamic Programming.
+### 🔹 0/1 Knapsack
 
-🔹 Coin Change Problems
+Programs based on the **0/1 Knapsack problem** using **Dynamic Programming**.
 
-Programs for solving different Coin Change problems using Dynamic Programming.
+### 🔹 Coin Change Problems
 
-🔹 STL
+Programs for solving different **Coin Change problems** using **Dynamic Programming**.
+
+### 🔹 STL
 
 Practice programs using:
 
-Vector
-Pair
-Map
-Set
+* Vector
+* Pair
+* Map
+* Set
 
-Programming Language
-C++
+## 💻 Programming Language
+
+**C++**
+
