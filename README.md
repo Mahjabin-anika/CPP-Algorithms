@@ -2,10 +2,10 @@ CPP Algorithms
 
 This repository contains my C++ programs, practice problems, and implementations completed for my Algorithm course.
 
-Topics Covered
-Basic C++
+📚 Topics Covered
+🔹 Basic C++
 
-This folder contains basic C++ programs related to:
+This folder contains programs related to:
 
 Sum of array elements
 Finding the largest element
@@ -17,29 +17,30 @@ Finding string length
 Counting vowels
 Copying an array
 Checking whether an array is sorted
-Activity Selection
+🔹 Activity Selection
 
 Programs based on the Activity Selection problem using the Greedy Algorithm.
 
-Fractional Knapsack
+🔹 Fractional Knapsack
 
 Programs based on the Fractional Knapsack problem using the Greedy Algorithm.
 
-0/1 Knapsack
+🔹 0/1 Knapsack
 
 Programs based on the 0/1 Knapsack problem using Dynamic Programming.
 
-Coin Change Problems
+🔹 Coin Change Problems
 
 Programs for solving different Coin Change problems using Dynamic Programming.
 
-STL
+🔹 STL
 
-The STL folder contains practice programs on:
+Practice programs using:
 
 Vector
 Pair
 Map
 Set
-Programming Language
+💻 Programming Language
+
 C++
