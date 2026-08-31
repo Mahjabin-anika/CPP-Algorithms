@@ -41,6 +41,6 @@ Vector
 Pair
 Map
 Set
-💻 Programming Language
 
+Programming Language
 C++
